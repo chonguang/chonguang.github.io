@@ -1,2 +1,2 @@
-# chonguang.github.io-
+# chonguang.github.io
 Personal blog
