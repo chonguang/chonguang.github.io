@@ -1,1 +1,1 @@
-My personal blog and study notes.
+# My personal blog and study notes.
