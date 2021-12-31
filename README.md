@@ -1,2 +1,2 @@
 # chonguang.github.io
-Personal blog
+My personal blog and study notes.
