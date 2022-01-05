@@ -3,7 +3,7 @@ title: Typora+PicGo+Gitee图床实现图片上传
 date: 2022-01-05 21:19:57 +0800
 category: 图床
 tags: [Typora，PicGo，Gitee]
-excerpt: Typora+PicGo+Gitee图床，打造图片上传,本地显示功能
+excerpt: Typora+PicGo+Gitee图床，打造图片上传，本地显示功能
 ---
 
 
@@ -78,7 +78,7 @@ PicGo是一款图片上传的工具，目前支持微博图床，七牛图床，
 >
 > 详细安装过程可参考：<https://www.runoob.com/nodejs/nodejs-install-setup.html>
 
-安装好之后，打开 PicGo 软件，点击插件设置，搜索 gitee，选择第一个即可，右边的插件也可以，配置过程也差不多。
+安装好之后，打开 PicGo 软件，点击插件设置，搜索 gitee，选择第一个即可，别的插件也可以，配置过程也差不多。
 
 ![image-20220105231021762](https://gitee.com/chonguang/picture-bed/raw/master/imgs-typora/202201052310837.png)
 
