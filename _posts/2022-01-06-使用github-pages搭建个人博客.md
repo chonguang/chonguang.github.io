@@ -134,7 +134,7 @@ exclude:
 
 ```
 
-- about.md
+- about.md：
 
 ```markdown
 ---
