@@ -126,3 +126,7 @@ PicGo是一款图片上传的工具，目前支持微博图床，七牛图床，
 
 ![image-20220106000409829](https://gitee.com/chonguang/picture-bed/raw/master/imgs-typora/202201060004891.png)
 
+> 使用github作为图床也可以，但是由于github网速受限，图片可能不会加载出来，体验并不是很好
+
+>SM.MS是由V2EX大佬@Showfom在2014年上线的免费图床项目，目前在国内访问速度较快，偶尔可能出现不能用的情况，个人免费额度是5G
+
