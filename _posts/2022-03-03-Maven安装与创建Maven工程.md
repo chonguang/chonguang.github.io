@@ -129,6 +129,20 @@ excerpt: 安装Maven与使用IDEA集成Maven并创建Maven工程
   <localRepository>D:\repository</localRepository>
 ```
 
+>检验本地仓库是否已经设置成功
+>
+>保存 `settings.xml` 后控制台输入 `mvn help:system` 
+
+![1858147-20210117223002155-140318163](https://gitee.com/chonguang/picture-bed/raw/master/imgs-typora/202203032049247.png)
+
+> 打开本地仓库后，发现里面生成文件，说明修改成功
+>
+> > 首次执行 `mvn help:system` 命令，Maven相关工具自动帮助到Maven中央仓库下载缺省的或者Maven中央仓库更新的各种配置文件和类库(jar包)到Maven本地仓库中
+> >
+> > 下载完各种文件后， `mvn help:system` 命令会打印出所有的Java系统属性和环境变量
+
+![image-20220303181725232](https://gitee.com/chonguang/picture-bed/raw/master/imgs-typora/202203031817277.png)
+
 ---
 
 > 修改maven的源地址为阿里源
@@ -217,4 +231,15 @@ excerpt: 安装Maven与使用IDEA集成Maven并创建Maven工程
 ##### 浏览器访问效果
 
 ![image-20220303170339058](https://gitee.com/chonguang/picture-bed/raw/master/imgs-typora/202203031703173.png)
+
+---
+
+### 写在后面
+
+> 如果是社区版的IDEA并没有Tomcat的直接选项，可以使用Maven配置Tomcat，也可以使用插件(`Smart Tomcat`)
+>
+> 具体方法请参考：
+>
+> - [IDEA社区版tomcat配置教程](https://blog.csdn.net/zhoukun1314/article/details/88910242 '点击链接前往')
+> - [问题解决：idea社区版添加tomcat](https://www.cnblogs.com/zhizhiyin/articles/9089736.html '点击链接前往')
 
